@@ -254,4 +254,4 @@ function draw() {
 
 ## Link a mi pryoecto a p5.js Web editor
 
-<iframe src="https://editor.p5js.org/arely.contreras/full/gm_wIi01F"></iframe>
+https://editor.p5js.org/arely.contreras/sketches/gm_wIi01F
