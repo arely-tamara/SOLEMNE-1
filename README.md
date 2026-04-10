@@ -18,6 +18,12 @@ Para resolver esto iba anotando manualmete el codigo porque a veces confundia ej
 ## Dibujo original inspirado en Wassily Kandinsky
 <img width="1984" height="1502" alt="Github" src="https://github.com/user-attachments/assets/de80508b-2d4b-4c44-b916-a8c23952205a" />
 
+## Work in progress
+
+![work in progress](https://github.com/user-attachments/assets/95f3d0c6-4141-49d5-ab05-37205af26c8c)
+
+![work in progress 2](https://github.com/user-attachments/assets/98b48987-cac6-473b-aee2-083ea13c792f)
+
 ## Resultado en p5.js Web Editor
 <img width="622" height="616" alt="Captura de pantalla 2026-04-09 225908" src="https://github.com/user-attachments/assets/ecca3478-84da-442c-9e70-029cfe3ea4b6" />
 
@@ -237,6 +243,8 @@ function draw() {
   line(20,480,180,480); // crea una linea en coordenadas x,y
   
   line(80,480,80,440); // crea una linea en coordenadas x,y
+
+  
   
   line(80,440,120,440); // crea una linea en coordenadas x,y
   
